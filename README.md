@@ -1,9 +1,10 @@
 # Aleste 520EX branch of CoreAmstrad
 
-Adding support of Aleste 520EX modes
+Adding support of Aleste 520EX modes https://github.com/hww/Aleste520EX, cpcwiki http://www.cpcwiki.eu/index.php/Aleste_520EX
+
 
 # CoreAmstrad
-CoreAmstrad source code [https://github.com/hww/Aleste520EX]Aleste 520EX
+CoreAmstrad source code 
 
 This core was refactored into Xilinx NEXYS4 dev platform, and then translated finally into MiST-board final platform (Altera)
 
