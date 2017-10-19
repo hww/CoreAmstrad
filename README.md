@@ -1,3 +1,7 @@
+# Aleste 520EX branch of CoreAmstrad
+
+Adding support of Aleste 520EX modes
+
 # CoreAmstrad
 CoreAmstrad source code
 
