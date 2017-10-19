@@ -1,6 +1,7 @@
 # Aleste 520EX branch of CoreAmstrad
 
-Adding support of Aleste 520EX modes https://github.com/hww/Aleste520EX, cpcwiki http://www.cpcwiki.eu/index.php/Aleste_520EX
+Adding support of [Aleste 520EX](https://github.com/hww/Aleste520E) modes X
+Read more at [Aleste 520EX @ cpcwiki](http://www.cpcwiki.eu/index.php/Aleste_520EX)
 
 
 # CoreAmstrad
