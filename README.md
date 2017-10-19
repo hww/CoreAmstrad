@@ -3,7 +3,7 @@
 Adding support of Aleste 520EX modes
 
 # CoreAmstrad
-CoreAmstrad source code
+CoreAmstrad source code [https://github.com/hww/Aleste520EX]Aleste 520EX
 
 This core was refactored into Xilinx NEXYS4 dev platform, and then translated finally into MiST-board final platform (Altera)
 
